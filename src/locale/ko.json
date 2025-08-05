@@ -1,0 +1,361 @@
+{
+  "common": {
+    "header": "ko 헤더",
+    "topBanner": {
+      "title": "Hyundai Mobility<br class='block lg:hidden' /> Passport<br class='block lg:hidden' /> in Okinawa",
+      "alt": "Hyundai Mobility Passport in Okinawa"
+    },
+    "test": "ko 테스트",
+    "tagTest": "<strong>ko 태그 테스트</strong>",
+    "clipboard": {
+      "success": "쿠폰번호가 복사되었습니다",
+      "error": "복사하기에 실패했습니다"
+    },
+    "message": {
+      "duplicate_participation": "입력하신 정보로 이미 쿠폰이<br class='mo-only' /> 발급된 내역이 있습니다.<br class='mo-only' /> 이전에 발송된 메일에서<br class='mo-only' /> 쿠폰 번호를 확인해 주세요.",
+      "coupon_sold_out": "쿠폰이 모두 소진되었습니다.<br />다음 이벤트를 기대해주세요.",
+      "test_drive_complete": "쿠폰 발급이 완료되었습니다.",
+      "api_error": "쿠폰 발급 중 오류가 발생했습니다.<br /> 다시 한 번 시도해 주세요."
+    },
+    "button": {
+      "cancel": "취소",
+      "confirm": "확인"
+    },
+    "footer": {
+      "copyright": "COPYRIGHT ⓒ HYUNDAI MOTOR COMPANY. ALL<br class='block lg:hidden' /> RIGHTS RESERVED."
+    }
+  },
+
+  "intro": {
+    "info": {
+      "title": "현대 EV,<br/>당신의 여행을 캐리하다.",
+      "item_01": {
+        "tit": "이벤트 혜택 & 렌탈 가능 차량",
+        "subTit": "고민할 게 너무 많은 오키나와 렌터카 여행.<br />Hyundai Mobility Passport로<br class='mo-only' /> 보험·충전·고속도로 통행까지 걱정 없이 떠나보세요.",
+        "carRent": "Hyundai Mobility Passport가 준비한",
+        "carRentPrice": "오키나와 여행이 쉬워지는 15만원 상당의 혜택!",
+        "carRentPeriod": "혜택 지급 기간",
+        "carRentNoti": "※ 위 기간은 쿠폰의 유효기간으로,<br class='mo-only' /> 이벤트 기간과 상이할 수 있습니다.",
+        "list_01": "본 이벤트 혜택은 일본 오키나와 현지 OTS 차량 렌탈 기간별로 상이하며 최대 120시간까지 제공합니다. 쿠폰 조기 소진에 따라 별도 예고 없이 이벤트 종료 및 혜택이 변경될 수 있습니다.",
+        "list_02": "혜택의 정확한 금액은 환율 변동 및 향후 혜택 변경에 따라 달라질 수 있습니다.",
+        "list_03": "본 쿠폰은 명시된 유효기간 내에만 사용 가능합니다.",
+        "list_04": "쿠폰은 1인 1회 한정으로 제공되며, 당사 및 제휴사의 사정에 따라 변경되거나 취소될 수 있습니다.",
+        "list_05": "본 혜택은 Hyundai Mobility Passport in Okinawa 쿠폰 신청 페이지에서 쿠폰 발급을 통해 참여하실 수 있습니다.",
+        "list_06": "차량 대수가 제한되어 있어 원하는 기간에 예약이 불가능할 수 있습니다.",
+        "list_07": "예약 가능한 차량 현황은 쿠폰 발급 진행 후 안내되는 ‘OTS 렌터카 예약 페이지’에서 확인 부탁드립니다.",
+        "list_08": "예약 후 일정 변경은 불가하며, 변경 시 기존 예약을 취소하고 <br class='mo-only' />재예약해 주셔야 합니다. 단, 변경 희망 기간에 차량이 <br class='mo-only' />조기 예약 마감된 경우, 예약이 불가능할 수 있습니다."
+      },
+      "item_02": {
+        "tit": "이벤트 대상",
+        "subTit": "국제운전면허증 소지자 혹은<br class='mo-only' /> 유효한 일본 운전면허증 소지자",
+        "list": "본 프로그램은 일본 오키나와에서 렌터카 예약 시 혜택이 적용되는 프로그램입니다.<br />이용을 위해서는 만 18세 이상이며, 도로교통법에 따른 유효한 국내 운전면허증과 렌터카 대여 기간 동안 유효한 국제운전면허증을 모두 소지한 경우에만 차량 이용이 가능합니다.<br /> 면허를 취득한 지 1년 미만의 초보 운전자의 경우에도 차량 렌탈이 가능하나, 운전에 각별한 주의를 기울여 주시기 바랍니다.<br /> 또한, <a href='https://www.otsinternational.jp/otsrentacar/ko/rule/stipulation/' target='_blank' class='out-link'>현지 렌터카 회사의 규정</a>에 따라 일부 제한이 적용될 수 있습니다."
+      },
+      "item_03": {
+        "tit": "이벤트 기간",
+        "subTit": "2025. 4. 18 ~ 2025. 12. 31",
+        "list": "쿠폰 발급 시 안내되는 별도 규정에 따라 이벤트 기간이 달라질 수 있습니다."
+      },
+      "item_04": {
+        "tit": "이벤트 참여 방법 안내",
+        "step_01": {
+          "tit": "쿠폰 발급 신청",
+          "list_01": "안내 페이지 하단 ‘쿠폰 발급하러 가기’ 버튼 클릭 후<br class='pc-only' /> 쿠폰 신청 페이지로 이동해 주세요. ",
+          "list_02": "신청 폼을 작성해 주세요.",
+          "list_03": "쿠폰 발급을 위해 정확한 이메일주소를 입력해주세요.",
+          "list_04": "안내 사항 수신을 위해 쿠폰 발급 시 안내되는<br /> 카카오톡 채널을 반드시 추가해 주세요."
+        },
+        "step_02": {
+          "tit": "OTS 렌터카 예약 페이지에서 차량 예약",
+          "list_01": "OTS 렌터카 예약 페이지에서 차량을 예약해 주세요.",
+          "list_02": "예약이 완료되면 OTS 렌터카 예약 페이지에<br class='pc-only' /> 입력하신 이메일 주소로 확정 메일이 발송됩니다."
+        },
+        "step_03": {
+          "tit": "오키나와에서 현대 EV 체험",
+          "list_01": "OTS 렌트카 나하 공항 영업소에 방문해 예약하신<br class='pc-only' /> 차량을 인도 받으세요.",
+          "list_02": "현대 EV의 다양한 기능을 경험하며, 더욱 편안하고<br class='pc-only' /> 특별한 여정을 즐겨보세요."
+        }
+      },
+      "item_05": {
+        "tit": "오키나와 OTS 렌터카 나하공항 영업소 안내",
+        "OnTheWay": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d57285.679519012934!2d127.62173051173626!3d26.18512873434343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x34e569001e27ea5f%3A0x1441bea47d212dc1!2sNaha%20Airport%20Rental%20Car%20Pickup%20Station%2C%20Ashimine%2C%20Naha%2C%20Okinawa%20901-0143%20%EC%9D%BC%EB%B3%B8!3m2!1d26.2047304!2d127.6514356!4m5!1s0x34e568095e57f603%3A0xd6af9892e36a0f42!2z7J2867O4IOyYpO2CpOuCmOyZgO2YhCDrj4Trr7jqtazsiqTsv6Dsi5wg64-E7JqU7IKs7YKkIE9UUyDroIzthLDsubQ!3m2!1d26.158824!2d127.65435579999999!5e0!3m2!1sja!2skr!4v1739926120367!5m2!1sja!2skr",
+        "subTit": "오키나와 OTS 렌터카 영업소 안내",
+        "txt": "(임공도요사키영업소, 나하 공항)",
+        "tel": "+ 81 098 - 856 - 8877",
+        "address": {
+          "main": "도요미조시 도요사키 3-37",
+          "detail": "나하공항에서 무료 셔틀버스 이용<br />영업소까지의 버스 운행 소요시간은 약 20분<br />(도로 상황에 따라 다름)",
+          "OTS_gooleMap": "<a href='https://www.google.co.kr/maps/place/OTS+%EB%A0%8C%ED%84%B0%EC%B9%B4/@26.1588346,127.6518281,17z/data=!3m1!4b1!4m6!3m5!1s0x34e568095e57f603:0xd6af9892e36a0f42!8m2!3d26.1588346!4d127.654403!16s%2Fg%2F1tj82lz4?entry=ttu&g_ep=EgoyMDI1MDMzMS4wIKXMDSoASAFQAw%3D%3D' target='_blank'>구글 지도로 보기</a>"
+        },
+        "notice": {
+          "head": "나하 공항 ⇔ 오키나와 OTS렌터카 영업소 <br class='mo-only' />무료 셔틀버스 안내",
+          "sub_01": "셔틀버스 탑승 장소 (나하공항 > OTS 영업소)",
+          "sub_01_des": "나하공항 국내선 4번 출구<br class='mo-only' /> OTS 셔틀버스 탑승 구간",
+          "sub_02": "소요 시간",
+          "sub_02_des": "20분",
+          "list_01": "모든 Hyundai Mobility Passport 고객은 별도의 추가 예약 없이 무료로 나하공항 <-> OTS 렌터카 영업소 간 왕복 셔틀버스를 이용할 수 있습니다.",
+          "list_02": "OTS 렌터카 차량 예약 완료 페이지 또는 예약확정 이메일 내 ‘셔틀버스 QR’ 또는  ‘예약자명’을 셔틀 탑승 장소에서 직원에게 제시해 주세요.",
+          "list_03": "셔틀버스 탑승 장소는 변경될 수 있으니, 차량 예약시 OTS 렌트카 영업소로 확인 후 이용 부탁드립니다.<br class='mo-only' /> <a href='https://www.otsinternational.jp/otsrentacar/ko/okinawa/pickup/naha-airport-domestic/' class='out-link' target='_blank'>셔틀버스 이용 정보</a>"
+        }
+      },
+      "btn": "쿠폰 발급하러 가기"
+    },
+    "map": {
+      "title": "현대 EV와 함께,",
+      "title_02": "오키나와에서 특별한 여정을 떠나보세요.",
+      "subTit": "푸른 바다와 깎아지른 절벽, 볼거리와 먹거리가 가득한 국제 거리까지! 현대 EV를 타고 오키나와의 명소들을 마음껏 방문해 보세요.<br /> 친환경 전기차와 함께하는 특별한 여행이 여러분을 기다립니다!",
+      "place": {
+        "p_01": "코우리지마 하트 락(Heart Rock)",
+        "p_01_detail": "2 Kouri, Nakijin, Kunigami District",
+        "p_01_mo": "코우리지마 하트 락(Heart Rock)",
+        "p_01_detail_mo": "2 Kouri, Nakijin, Kunigami District",
+        "p_02": "추라우미 수족관",
+        "p_02_detail": "424 Ishikawa, Motobu,<br /> Kunigami District",
+        "p_02_mo": "추라우미 수족관",
+        "p_02_detail_mo": "424 Ishikawa, Motobu,<br /> Kunigami District",
+        "p_03": "만자모",
+        "p_03_detail": "Onna, Kunigami District",
+        "p_03_mo": "만자모",
+        "p_03_detail_mo": "Onna, Kunigami District",
+        "p_04": "오키나와 푸른 동굴",
+        "p_04_detail": "469-1 Maeda, Onna,<br /> Kunigami District",
+        "p_04_mo": "오키나와 푸른 동굴",
+        "p_04_detail_mo": "469-1 Maeda, Onna,<br /> Kunigami District",
+        "p_05": "류큐무라(테마파크)",
+        "p_05_detail": "1130 Yamada, Onna,<br /> Kunigami District",
+        "p_05_mo": "류큐무라(테마파크)",
+        "p_05_detail_mo": "1130 Yamada, Onna,<br /> Kunigami District",
+        "p_06": "국제거리",
+        "p_06_detail": "3 Chome-2-10 Makishi,<br /> Naha",
+        "p_06_mo": "국제거리",
+        "p_06_detail_mo": "3 Chome-2-10 Makishi,<br /> Naha",
+        "p_07": "마츠다 종유동굴",
+        "p_07_detail": "Ginoza, Kunigami District",
+        "p_07_mo": "마츠다 종유동굴",
+        "p_07_detail_mo": "Ginoza, Kunigami District"
+      },
+      "ev_map_notice": "홈페이지 지도에는 급속 충전소(CHAdeMO)만 표기되어 있습니다. <br class='pc-only' />예약자에게는 완속 충전소를 포함한 더 많은 충전소와 이용 방법이 상세히 제공됩니다."
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "faq_01": "이벤트 및 쿠폰 발급 관련 문의",
+      "faq_01_address": "<a href='mailto:help@hyundaimobilitypassport.com' target='_blank' class='out-link'>help@hyundaimobilitypassport.com</a>",
+      "faq_02": "오키나와 현지 차량 이용 관련 문의",
+      "faq_02_address": "<a href='https://www.otsinternational.jp/otsrentacar/ko/inquiry/' target='_blank' class='out-link'>OTS 렌터카 문의 페이지로 이동</a>",
+      "faq_03": "Hyundai Mobility Passport in Okinawa 대상자",
+      "faq_03_sub": "프로그램에 참여하려면 다음 운전 면허 요건을 충족하는지 확인하십시오.",
+      "list_01": "유효한 일본 운전면허증 또는 유효한 국내 운전면허증과 국제운전면허증을 함께 제시해야 합니다. 자세한 사항은 <a href='https://www.otsinternational.jp/otsrentacar/ko/guide/license/'target='_blank' class='out-link'>여기를 클릭하세요.</a>",
+      "list_02": "면허를 취득한 지 1년 미만의 초보 운전자의 경우에도 차량 렌탈 가능하나, 초보자용 표지를 지참해 주시기 바랍니다.",
+      "list_03": "렌탈 시작 시 면허증을 지참하지 않으신 경우, 차량 이용이 어렵습니다.",
+      "list_04": "이 외 규정은 OTS 렌트카 규정에 따릅니다. <a href='https://www.otsinternational.jp/otsrentacar/ko/question/' target='_target' class='out-link'>여기를 클릭하세요.</a>"
+    }
+  },
+
+  "form": {
+    "title": "각 항목에 정확한 정보를 입력하고 이용 약관에 동의하신 후 쿠폰 발급을 요청해 주시기 바랍니다.",
+    "title_02": "Hyundai Mobility Passport<br />in Okinawa 쿠폰 발급 신청",
+    "caution": "각 항목에 정확한 정보를 입력하고 이용 약관에 동의하신 후 <br class='mo-only' />쿠폰 발급을 요청해 주시기 바랍니다.",
+    "caution_02": "입력한 정보를 기준으로 연락을 드릴 수 있습니다.",
+    "name": "이름",
+    "email": "이메일",
+    "email_notice": "확인 이메일을 받으려면 정확한 정보를 입력해 주세요.",
+    "email_confirm_notice": "이메일 주소가 일치하지 않습니다.",
+    "phone": "전화번호",
+    "submit": "응모하기",
+    "family": {
+      "title": "함께 살고 있는 가족 구성",
+      "adults": "성인(본인포함, 18세이상)",
+      "children": "어린이"
+    },
+    "gender": {
+      "male": "남성",
+      "female": "여성",
+      "none": "무응답"
+    },
+    "job": {
+      "student": "학생",
+      "company_owner": "기업 소유주",
+      "company_executive": "회사 임원",
+      "company_manager": "회사 관리직",
+      "company_employee": "회사원",
+      "company_employee_non_manager": "회사원(비관리직)",
+      "doctor": "의사",
+      "medical_worker": "의료 종사자",
+      "professional": "전문직",
+      "contract_worker": "계약직/파견직",
+      "civil_servant": "공무원",
+      "teacher": "교직원",
+      "self_employed": "자영업",
+      "part_time": "파트타임/아르바이트",
+      "unemployed": "무직/전업주부",
+      "retired": "은퇴",
+      "other": "기타"
+    },
+    "residence": {
+      "apartment_own": "아파트(자가)",
+      "apartment_rent": "아파트(전세/월세)",
+      "house_own": "단독주택(자가)",
+      "house_rent": "단독주택(전세/월세)"
+    },
+    "prefecture": {
+      "tokyo": "도쿄",
+      "osaka": "오사카",
+      "kyoto": "교토"
+    },
+    "used_car": {
+      "single": "네",
+      "multiple": "네 (여러 대 소유)",
+      "no": "아니오"
+    },
+    "planned_car": {
+      "1month": "1개월 이내",
+      "6months": "6개월 이내",
+      "1year": "1년 이내",
+      "none": "예정 없음"
+    },
+    "boolean": {
+      "true": "네",
+      "false": "아니오"
+    },
+    "car_maker": {
+      "none": "선택",
+      "hyundai": "Hyundai",
+      "kia": "Kia",
+      "genesis": "GENESIS",
+      "toyota": "Toyota",
+      "honda": "Honda",
+      "nissan": "Nissan",
+      "mazda": "Mazda",
+      "lexus": "Lexus",
+      "mitsubishi": "Mitsubishi",
+      "mercedes-benz": "Mercedes-Benz",
+      "audi": "Audi",
+      "bmw": "BMW",
+      "volkswagen": "Volkswagen",
+      "volvo": "VOLVO",
+      "tesla": "Tesla",
+      "byd": "BYD",
+      "Citroen": "Citroen",
+      "Fiat": "Fiat",
+      "Jaguar": "Jaguar",
+      "Jeep": "Jeep",
+      "MINI": "MINI",
+      "Peugeot": "Peugeot",
+      "Porsche": "Porsche",
+      "Renault": "Renault",
+      "Suzuki": "Suzuki",
+      "SUBARU": "Subaru",
+      "Daihatsu": "Daihatsu",
+      "Others": "기타"
+    },
+    "email_domain": {
+      "yahoo": "yahoo.co.jp",
+      "gmail": "gmail.com",
+      "icloud": "icloud.com",
+      "niffy": "niffy.com",
+      "naver": "naver.com",
+      "daum": "daum.net",
+      "hanmail": "hanmail.net",
+      "nate": "nate.com",
+      "custom": "직접입력"
+    },
+    "label": {
+      "name": "성명",
+      "name_passport": "여권에 기재된 영문 성명",
+      "name_passport_notice": "여권 또는 운전 면허증에 기재된 이름을 영문자로 입력하십시오.",
+      "mobile": "휴대 전화",
+      "email": "이메일 주소",
+      "email_confirm": "이메일 주소 확인",
+      "address": "상세주소",
+      "birth": "생년월일",
+      "gender": "성별",
+      "job": "직업",
+      "test_drive_period": "렌탈 희망 기간",
+      "test_drive_period_notice": "대략적인 오키나와 여행 일정을 입력해 주세요. 실제 여행 일정과 일치하지 않아도 괜찮습니다.",
+      "residence": "주거 형태",
+      "used_car": "현재 차량을 소유하고 있으십니까?",
+      "planned_car": "자동차를 구입하거나<br /> 교체하실 계획이 있으십니까?",
+      "planned_car_ev": "평소 현대자동차의<br /> EV(전기차)에 관심이 있으신가요?",
+      "event_required": "<span class='text-primary'>[필수]</span> 이벤트 참여 약관에 동의합니다.",
+      "privacy_required": "<span class='text-primary'>[필수]</span> 개인정보 수집 및 이용에 동의합니다.",
+      "marketing_required": "<span class='text-primary'>[필수]</span> 마케팅 정보 활용에 동의합니다.",
+      "marketing_optional": "<span class='text-primary'>[선택]</span> 마케팅 정보 활용에 동의합니다.",
+      "marketing_consent_required": "<span class='text-primary'>[필수]</span> 광고성 정보 수신에 동의합니다.",
+      "marketing_consent_optional": "<span class='text-primary'>[선택]</span> 광고성 정보 수신에 동의합니다.",
+      "terms_view": "약관보기",
+      "first_name": "이름(영문)을 입력해 주세요",
+      "last_name": "성(영문)을 입력해 주세요",
+      "first_name_hurigana": "이름(한글)을 입력해 주세요",
+      "last_name_hurigana": "성(한글)을 입력해 주세요",
+      "email_id": "이메일 아이디",
+      "email_domain": "선택",
+      "email_domain_custom": "직접입력",
+      "prefecture": "주소",
+      "year": "0000",
+      "month": "00",
+      "day": "00",
+      "job_etc": "직업을 입력해 주세요.",
+      "postal_code": "우편번호",
+      "address_detail": "상세주소"
+    },
+    "vehicle_info": {
+      "guide": "제조사명, 차종명을 선택 혹은 입력해 주세요.",
+      "car_1": "1대목",
+      "car_2": "2대목",
+      "car_3": "3대목",
+      "maker": "제조사명",
+      "model": "차종명",
+      "model_placeholder": "차종명을 입력해 주세요. 기입 예시) IONIQ 5",
+      "inspection": "차량 정기 점검 만료 시기"
+    },
+    "placeholder": {
+      "none": "선택",
+      "year": "연도",
+      "month": "월",
+      "day": "일",
+      "mobile": "01000000000",
+      "email_id": "example",
+      "email_domain": "도메인 선택",
+      "email_domain_custom": "@example.com",
+      "email_confirm": "이메일 주소를 다시 입력해주세요",
+      "postal_code": "우편번호",
+      "postal_code_search": "우편번호를 입력하세요",
+      "address": "주소",
+      "address_detail": "상세주소를 입력하세요"
+    },
+    "button": {
+      "search_postal_code": "우편번호 검색"
+    },
+    "dialog": {
+      "postal_code_search": "우편번호 검색",
+      "postal_code_search_description": "우편번호를 입력하여 주소를 검색하세요"
+    },
+    "text": {
+      "searching": "검색중...",
+      "postal_code_search_description": "※현재 우편번호 검색 기능은 일본 주소만 지원합니다."
+    },
+    "error": {
+      "postal_code_required": "우편번호를 입력해주세요",
+      "address_required": "주소를 입력해주세요",
+      "address_detail_required": "상세주소를 입력해주세요",
+      "invalid_postal_code": "올바른 우편번호를 입력해주세요",
+      "search_failed": "검색에 실패했습니다"
+    },
+    "date": {
+      "year": "년",
+      "month": "월",
+      "day": "일"
+    }
+  },
+  "complete": {
+    "title": "쿠폰 발급이 완료되었습니다.",
+    "coupon_code": "쿠폰코드",
+    "coupon_copy": "쿠폰 번호 복사하기",
+    "coupon_date": "유효기간",
+    "description_01": "입력하신 이메일 주소로 쿠폰이 발급되었습니다.<br /> 편안하고 즐거운 여행을 위해 지금 바로 쿠폰을 사용해 보세요!",
+    "description_02": "아래 버튼을 통해 연결되는 OTS 렌터카  예약 페이지에서<br /> Hyundai Mobility Passport in Okinawa 전용 차량 예약시 쿠폰 번호를 입력해야만 혜택이 적용됩니다.",
+    "description_03": "본 쿠폰은 하단의 ‘현대 EV 예약하기’ 버튼 클릭시<br class='pc-only' /> 이동되는 ‘Hyundai Mobility Passport in Okinawa 전용 OTS 예약 페이지’에서만 사용이 가능합니다.<br class='pc-only' /> OTS 사이트를 통한 별도의 접근은 불가합니다.",
+    "btn": "현대 EV 예약하기",
+    "note": "OTS렌터카의 페이지로 이동합니다.",
+    "popup_content_01": "오키나와 현지 차량 인도, EV 충전 방법 등<br /> 여행에 꼭 필요한 정보를 빠짐없이 받으시려면,<br /> 예약 전 카카오 채널 추가를 잊지 마세요!"
+  }
+}

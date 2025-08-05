@@ -1,0 +1,33 @@
+import { Path, type FieldValues, type UseFormReturn } from "react-hook-form";
+import { FormControl, FormField, FormItem, FormLabel } from "@/components/ui/form";
+import { Checkbox } from "@/components/ui/checkbox";
+
+interface FormFieldCheckboxProps<T extends FieldValues, U> {
+  form: UseFormReturn<T, U, FieldValues | undefined>;
+  name: Path<T>;
+  label?: React.ReactNode;
+  required?: boolean;
+}
+
+export default function FormFieldCheckbox<T extends FieldValues, U>({ form, name, label, required = true }: FormFieldCheckboxProps<T, U>) {
+  return (
+    <FormField
+      control={form.control}
+      name={name}
+      rules={{ required: required ? "This field is required" : false }}
+      render={({ field }) => (
+        <FormItem className='flex flex-row items-start space-x-[1.6rem] space-y-0'>
+          <FormControl>
+            <Checkbox
+              checked={field.value === "True"}
+              onCheckedChange={checked => {
+                field.onChange(checked ? "True" : "False");
+              }}
+            />
+          </FormControl>
+          {label && <FormLabel className='leading-[2.4rem] font-normal cursor-pointer'>{label}</FormLabel>}
+        </FormItem>
+      )}
+    />
+  );
+}
