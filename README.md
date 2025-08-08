@@ -134,14 +134,14 @@ npm install
 ```bash
 npm run dev
 ```
-개발 서버가 `http://localhost:3020` 에서 실행됩니다.
+개발 서버가 `http://localhost:3020/okinawa` 에서 실행됩니다.
 
 4. 프로덕션 빌드
 ```bash
 npm run build
 npm run start
 ```
-프로덕션 서버가 `http://localhost:3025` 에서 실행됩니다.
+프로덕션 서버가 `http://localhost:3025/okinawa` 에서 실행됩니다.
 
 ## 🌐 API 엔드포인트
 
